@@ -32,7 +32,7 @@ Vascular lesion
 ## Conclusions
 - While creating inital model the model seems to be overfitting
 - After using augumentaion, overfitting was gone, but due to class imbalance model was underfitting
-- After resolving class imbalance using Augmentor, the model seems to be working fine with Train accuracy as 92% and test accuracy as 78%
+- After resolving class imbalance using Augmentor, the model seems to be working fine with Train accuracy as 90%, validation accuracy 75% and test accuracy as 98%
   
 
 
